@@ -1,3 +1,4 @@
+from tensorflow import keras
 from keras_vggface.utils import preprocess_input
 from keras_vggface.vggface import VGGFace
 import pickle
