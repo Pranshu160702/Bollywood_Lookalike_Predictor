@@ -23,7 +23,7 @@ opencv-python==4.7.0.72
 opendatasets==0.1.22
 Pillow==9.4.0
 pipreqs==0.4.13
-protobuf==3.20.3
+protobuf
 pyarrow==11.0.0
 pyasn1-modules==0.2.8
 pydeck==0.8.0
